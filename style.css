@@ -41,12 +41,12 @@ body {
     CHALLENGE: change the background to one you like
     */
     
-    --background-image: var(--wooden);
+    --background-image: var(--sparkle);
     
     /*
     CHALLENGE: change the main color to one you like!
     */
-    --main-color: var(--snow);
+    --main-color: var(--royal);
     
      /* 
     CHALLENGE: change the font to one you think is cool
@@ -59,14 +59,14 @@ body {
     /* 
     BONUS CHALLENGE: adjust how many columns you'd like to have
     */
-   column-count: 2;
-   column-gap: 10px;
+   column-count: 3;
+   column-gap: 15px;
 }
 
 
 .img {
-    /* 
-    border-image: var(--sweets) 100;
-    */
+    
+    border-image: var(--royal) 100;
+   
 
 }
